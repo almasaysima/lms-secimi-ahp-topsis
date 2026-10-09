@@ -1,0 +1,7 @@
+﻿Sıra,Alternatif,TOPSIS Skoru (Ci),S+ (İdeale Uzaklık),S- (Negatife Uzaklık),Performans Özeti
+1,VEDUBOX,0.8346,0.0263,0.1325,En dengeli lider (C3 ve C4 güçlü)
+2,Canvas LMS,0.7956,0.0323,0.1255,"Güçlü UX/Mobilite, entegrasyonda 2."
+3,Blackboard Learn,0.7789,0.0391,0.1376,"Yüksek kurumsal güvenlik, yüksek lisans maliyeti"
+4,Moodle,0.6973,0.0532,0.1225,"Düşük maliyet, teknik bakım ihtiyacı"
+5,itslearning,0.6072,0.0716,0.1107,"Güçlü ders yönetimi, zayıf entegrasyon"
+6,Google Classroom / MS Teams,0.1968,0.1479,0.0362,LMS yerine yardımcı iletişim aracı
