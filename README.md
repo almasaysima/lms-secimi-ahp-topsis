@@ -1,17 +1,7 @@
 \# 🎓 Öğrenme Yönetim Sistemi (LMS) Seçimi İçin Bütünleşik AHP ve TOPSIS Karar Destek Modeli
 
 
-[https://img.shields.io/badge/Python-3.10%2B-3776AB?logo=python&logoColor=white]
-\
-\[https://img.shields.io/badge/Docker-Ready-2496ED?logo=docker&logoColor=white]
-\[https://img.shields.io/badge/Yöntem-AHP%20%26%20TOPSIS-blue]
-\[https://img.shields.io/badge/Alan-Endüstri%20Mühendisliği-brightgreen]
-\[https://img.shields.io/badge/Lisans-MIT-orange]
-
-
-
 > Bir yükseköğretim kurumunun uzaktan ve hibrit eğitim altyapısını optimize etmek amacıyla; \*\*SWOT, Pareto ve Balık Kılçığı\*\* kök neden analizleriyle tanımlanan kriterleri \*\*Analitik Hiyerarşi Prosesi (AHP)\*\* ve \*\*TOPSIS\*\* çok kriterli karar verme teknikleriyle modelleyen, Python ve Docker tabanlı karar destek sistemi.
-
 
 
 \---
