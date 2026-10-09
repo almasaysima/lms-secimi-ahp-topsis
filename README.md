@@ -2,10 +2,11 @@
 
 
 [https://img.shields.io/badge/Python-3.10%2B-3776AB?logo=python&logoColor=white]
-[https://img.shields.io/badge/Docker-Ready-2496ED?logo=docker&logoColor=white]
-[https://img.shields.io/badge/Yöntem-AHP%20%26%20TOPSIS-blue]
-[https://img.shields.io/badge/Alan-Endüstri%20Mühendisliği-brightgreen]
-[https://img.shields.io/badge/Lisans-MIT-orange]
+\
+\[https://img.shields.io/badge/Docker-Ready-2496ED?logo=docker&logoColor=white]
+\[https://img.shields.io/badge/Yöntem-AHP%20%26%20TOPSIS-blue]
+\[https://img.shields.io/badge/Alan-Endüstri%20Mühendisliği-brightgreen]
+\[https://img.shields.io/badge/Lisans-MIT-orange]
 
 
 
